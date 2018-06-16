@@ -104,7 +104,8 @@ namespace Eyecam
                         strBuilder.Append("\n");
                     }
                     textView.Text = strBuilder.ToString();
-
+                    
+                    //text to speech
                     var text = strBuilder.ToString();
                     CrossTextToSpeech.Current.Speak(text);
                 });
