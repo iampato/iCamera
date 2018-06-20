@@ -1,6 +1,6 @@
 # Dekut Hackerthon
 <br>
-<b>Date :</b> 15th June
+<b>Date :</b> 15th June 2018
 <h2>Xamarin, cross platform application</h2>
 <h3>Technologies used</h3>
 <ul>
